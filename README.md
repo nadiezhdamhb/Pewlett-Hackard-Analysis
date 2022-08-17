@@ -33,7 +33,7 @@ Results: Provide a bulleted list with four major points from the two analysis de
 ![](https://github.com/nadiezhdamhb/Pewlett-Hackard-Analysis/blob/main/mentorship_eligibility_image.png) (1,549 rows)
 
 
-Summary: Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
+## Summary:
 
 #1. How many roles will need to be filled as the "silver tsunami" begins to make an impact? There will be to be filled about 72,458 positions as provided by the unique_titles table. 
 
