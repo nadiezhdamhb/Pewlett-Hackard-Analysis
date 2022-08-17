@@ -12,7 +12,7 @@ As many current employees reach retirement age at a large company with over 7000
 
 Results: Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
    
-    Deliverable 1
+## Deliverable 1
     In Deliverable 1 I created a Retirement Titles table that holds all the titles of employees who were born between January 1, 1952 and December 31, 1955. 
     
 ![](https://github.com/nadiezhdamhb/Pewlett-Hackard-Analysis/blob/main/retirement_titles_image.png) (133,776 rows) 
@@ -28,12 +28,13 @@ Results: Provide a bulleted list with four major points from the two analysis de
         mid-level = 16,921
         Technique Leader = 3603
 
-    Deliverable 2
+## Deliverable 2
     In Deliverable 2 I created a mentorship-eligibility table that holds the current employees who were born between January 1, 1965 and December 31, 1965. These employees are ready to retire and many of them hold senior positions. By participating in the mentorship program they will be able to share their long career experience with the junior employees or mid-level employees to better prepare them for the road ahead in the company.
 ![](https://github.com/nadiezhdamhb/Pewlett-Hackard-Analysis/blob/main/mentorship_eligibility_image.png) (1,549 rows)
 
 
 Summary: Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
+
 #1. How many roles will need to be filled as the "silver tsunami" begins to make an impact? There will be to be filled about 72,458 positions as provided by the unique_titles table. 
 
 ![](https://github.com/nadiezhdamhb/Pewlett-Hackard-Analysis/blob/main/unique_titles_image.png)
