@@ -12,7 +12,8 @@ As many current employees reach retirement age at a large company with over 7000
 
 Results: Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
     Deliverable 1
-        In Deliverable 1 I created a Retirement Titles table that holds all the titles of employees who were born between January 1, 1952 and December 31, 1955. 
+    
+    In Deliverable 1 I created a Retirement Titles table that holds all the titles of employees who were born between January 1, 1952 and December 31, 1955. 
         Insert retirement_titles_image here. (133,776 rows) 
 
         Due to promotions and other factors, some employees may have multiple titles in the database therefore I used DISTINCT ON statement to create the Unique Titles table that contains the most recent title of each employee. Insert unique_titles_image here. (72,458 rows)
@@ -25,7 +26,7 @@ Results: Provide a bulleted list with four major points from the two analysis de
         Technique Leader = 3603
 
     Deliverable 2
-        In Deliverable 2 I created a mentorship-eligibility table that holds the current employees who were born between January 1, 1965 and December 31, 1965. These employees are ready to retire and many of them hold senior positions. By participating in the mentorship program they will be able to share their long career experience with the junior employees or mid-level employees to better prepare them for the road ahead in the company.
+    In Deliverable 2 I created a mentorship-eligibility table that holds the current employees who were born between January 1, 1965 and December 31, 1965. These employees are ready to retire and many of them hold senior positions. By participating in the mentorship program they will be able to share their long career experience with the junior employees or mid-level employees to better prepare them for the road ahead in the company.
         Insert the mentorship_eligibility_image here. (1,549 rows)
 
 
