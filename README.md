@@ -14,7 +14,7 @@ Results: Provide a bulleted list with four major points from the two analysis de
    
     Deliverable 1
     In Deliverable 1 I created a Retirement Titles table that holds all the titles of employees who were born between January 1, 1952 and December 31, 1955. 
-        Insert retirement_titles_image here. (133,776 rows) 
+        ![](https://github.com/nadiezhdamhb/Pewlett-Hackard-Analysis/blob/main/retirement_titles_image.png) (133,776 rows) 
 
         Due to promotions and other factors, some employees may have multiple titles in the database therefore I used DISTINCT ON statement to create the Unique Titles table that contains the most recent title of each employee. Insert unique_titles_image here. (72,458 rows)
 
