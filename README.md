@@ -34,11 +34,11 @@ Results: Provide a bulleted list with four major points from the two analysis de
 
 
 Summary: Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
-# 1. How many roles will need to be filled as the "silver tsunami" begins to make an impact? There will be to be filled about 72,458 positions as provided by the unique_titles table. 
+#1. How many roles will need to be filled as the "silver tsunami" begins to make an impact? There will be to be filled about 72,458 positions as provided by the unique_titles table. 
 
 ![](https://github.com/nadiezhdamhb/Pewlett-Hackard-Analysis/blob/main/unique_titles_image.png)
 
-# 2. Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees? 
+#2. Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees? 
 There is a good number of qualified retirement-ready employees to participate in the mentorship program as mentors, however for the size of the company and the amount of employees retiring soon there aren't enough qualified mentors to prepare the next generation. 
 
 A good plan would be to hire a third party company to help with the hiring scanning and process as soon as possible along with incentives for new hires such as signing bonus that would attract more candidates to the company. The mentorship program should be up and running soon to be able to help the junior or mid-level employees that have been in the company longer or that are ready for the next step in their career to move on to a management position. 
