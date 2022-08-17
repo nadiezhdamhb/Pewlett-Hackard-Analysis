@@ -11,8 +11,8 @@ As many current employees reach retirement age at a large company with over 7000
  
 
 Results: Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
+   
     Deliverable 1
-    
     In Deliverable 1 I created a Retirement Titles table that holds all the titles of employees who were born between January 1, 1952 and December 31, 1955. 
         Insert retirement_titles_image here. (133,776 rows) 
 
